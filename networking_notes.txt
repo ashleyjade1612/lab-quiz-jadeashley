@@ -1,0 +1,5 @@
+* Network Congestion 
+* Packet Loss
+* IP Address Conflicts
+* DNS Resolution Issues
+* Hardware Failures
